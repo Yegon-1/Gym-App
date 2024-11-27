@@ -19,6 +19,5 @@ The aim of a gym app for beginners is to help users ease into their fitness jour
 ![alt text](https://github.com/enes-sahinn/Gym-App/blob/master/app_screen4.png)
 
 ## Built With
-* Firebase
 * Kotlin
 
