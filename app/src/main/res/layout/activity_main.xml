@@ -30,6 +30,7 @@
         app:layout_constraintTop_toBottomOf="@+id/emailText"
         tools:ignore="TextFields" />
 
+
     <EditText
         android:id="@+id/emailText"
         android:layout_width="284dp"
@@ -45,6 +46,7 @@
         android:paddingStart="12dp"
         android:paddingEnd="12dp"
         android:rotationY="0"
+        android:textColor="@color/black"
         android:textAlignment="viewStart"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
@@ -71,4 +73,5 @@
         android:text="@string/sign_up"
         app:layout_constraintEnd_toEndOf="@+id/passwordText"
         app:layout_constraintTop_toBottomOf="@+id/passwordText" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
