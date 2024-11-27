@@ -7,7 +7,7 @@
 
 ## About The Project
 
-The aim of this project is to show the exercises that they can do to gym beginners and to provide a better understanding of the forms of these exercises.
+The aim of a gym app for beginners is to help users ease into their fitness journey by providing guidance, motivation, and tools to make their experience in the gym effective, enjoyable, and sustainable. For beginners, a gym can be intimidating, so the app should be user-friendly, accessible, and tailored to the needs of someone just starting out.
 
 ## App Screens
 ### Select your body part! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Select your exercise!
